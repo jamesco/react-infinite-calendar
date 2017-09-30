@@ -1,16 +1,16 @@
 module.exports = {
-  accentColor: '#448AFF',
+  accentColor: '#DD8250',
   floatingNav: {
     background: 'rgba(56, 87, 138, 0.94)',
     chevron: '#FFA726',
     color: '#FFF',
   },
-  headerColor: '#448AFF',
-  selectionColor: '#559FFF',
+  headerColor: '#D16429',
+  selectionColor: '#DD8250',
   textColor: {
     active: '#FFF',
-    default: '#333',
+    default: '#3B464C',
   },
-  todayColor: '#FFA726',
+  todayColor: '#DD8250',
   weekdayColor: '#559FFF',
 };
